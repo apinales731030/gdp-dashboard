@@ -1,31 +1,32 @@
 import streamlit as st
-import random
+from openai import OpenAI
 
-st.set_page_config(page_title="🥠 Galleta de la Fortuna", layout="centered")
-st.title("🥠 Tu galleta de la fortuna digital")
+# Show title and description.
+st.title("💬 Chatbot")
 
-# Frases estilo "galleta china"
-FORTUNAS = [
-    "La suerte sonríe a quienes se atreven.",
-    "Tu sonrisa ilumina más de lo que imaginas.",
-    "Una sorpresa agradable está en camino.",
-    "Hoy es un buen día para empezar algo nuevo.",
-    "Pronto recibirás una respuesta que esperabas.",
-    "Tu amabilidad cambiará el día de alguien más.",
-    "La paciencia es el arte de confiar en el tiempo.",
-    "Alguien piensa en ti con cariño.",
-    "Todo lo que das, vuelve multiplicado.",
-    "Un cambio pequeño hoy traerá grandes resultados mañana.",
-    "Tendrás claridad en medio de la confusión.",
-    "No temas hacer preguntas importantes.",
-    "Una buena noticia llegará sin avisar.",
-    "El silencio también puede ser una respuesta valiosa.",
-]
+openai_api_key = st.secrets["api_key"] 
+# Create an OpenAI client.
+client = OpenAI(api_key=openai_api_key)
 
-# Entrada del usuario
-user_input = st.chat_input("Rompe la galleta escribiendo algo...")
+#prompt = st.chat_input("What is up?")
+#if prompt==None:
+#   st.stop()
 
-if user_input:
-    st.chat_message("user").write(user_input)
-    fortuna = random.choice(FORTUNAS)
-    st.chat_message("assistant").write(f"🥠 *{fortuna}*")
+#with st.chat_message("user"):
+#   st.markdown(prompt)
+
+# Generate a response using the OpenAI API.
+
+#stream = client.chat.completions.create(
+#        model="gpt-4o-mini",  
+#        messages=[
+#            {"role": "system", "content": "You are an assistant."},
+#            {"role": "user", "content": prompt}
+#        ],
+#        max_tokens=800,
+#        temperature=0,
+#    )
+#respuesta = stream.choices[0].message.content
+
+#with st.chat_message("assistant"):
+#   st.write(respuesta)
