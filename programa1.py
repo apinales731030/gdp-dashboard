@@ -3,7 +3,7 @@ import streamlit as st
 
 # st.set_page_config(page_title="Ejemplo Chat", layout="centered")
 
-st.title("💬 Mini Chatbot (solo repite lo que dices)")
+st.title("🤖 Mini Chatbot en acción (solo repite lo que dices)")
 
 # Entrada tipo chat (abajo de la pantalla)
 user_input = st.chat_input("Escribe algo...")
@@ -14,5 +14,5 @@ if user_input:
     st.chat_message("user").write(user_input)
 
     # Mostrar una respuesta simple del asistente
-    st.chat_message("assistant").write(f"{user_input} <- eso dijiste")
+    st.chat_message("assistant").write(f"{user_input} <- estoy repitiendo")
 
