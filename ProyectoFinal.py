@@ -30,6 +30,7 @@ Este asistente responde preguntas sobre el Reglamento de la Facultad de Ingenier
 8. Los cursos intensivos solo permiten dos materias, requieren 90% de asistencia y no tienen opción de examen no ordinario.
 9. Las categorías de alumnos son: Regular, Irregular y Provisional.
 10. Puedes revisar exámenes si no estás de acuerdo, mediante solicitud escrita en los 3 días hábiles posteriores a la publicación de la calificación.
+11. Las tres materias básicas son: Álgebra, Física y Cálculo Diferencial e Integral
 
 Este asistente no reemplaza al reglamento oficial, pero te orienta de forma clara.
 """
