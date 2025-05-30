@@ -6,7 +6,7 @@ st.sidebar.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de I
 #st.sidebar.image("https://github.com/apinales731030/gdp-dashboard/blob/main/fi.png?raw=true")
 st.sidebar.image("fi.png")
 #st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
-st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
+st.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
  
  
 # Obtener clave API desde secretos
