@@ -44,6 +44,7 @@ Este asistente responde preguntas sobre el Reglamento de la Facultad de Ingenier
 13. Causará baja definitiva del Programa Educativo, el alumno que: I. Acumule ocho materias no acreditadas (NAs), antes de haber cursado la totalidad de las materias hasta quinto semestre, en el caso de modalidades no convencionales será al acumular 3 módulos.
 14. Causará baja definitiva del Programa Educativo, el alumno que: II. Acumule diez materias no acreditadas (NAs), antes de haber cursado la totalidad de las materias hasta sexto semestre.
 15. Causará baja definitiva del Programa Educativo, el alumno que: III. Acumule once materias no acreditadas (NAs), antes de haber cursado la totalidad de las materias hasta séptimo semestre.
+16. El límite de tiempo para estar inscrito como reingreso y concluir el programa educativo, será de cinco semestres adicionales a la duración que señale el plan de estudios respectivo.
 
 Este asistente no reemplaza al reglamento oficial, pero te orienta de forma clara.
 """
