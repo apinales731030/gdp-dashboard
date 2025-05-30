@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
   
 # Título y descripción
-st.sidebar.title("🎓 PROYECTO CURSO: Desarrollo de asistentes virtuales usando Streamlit - - ")
+st.sidebar.title("💹 PROYECTO CURSO: Desarrollo de asistentes virtuales usando Streamlit - - ")
 st.sidebar.title("🎓 INSTRUCTOR: DR. JOSÉ NÁPOLES DUARTE  - ")
 st.sidebar.title("🎓 ALUMNO: ADÁN PINALES MUNGUÍA  - ")
 st.sidebar.title("🎓 FACULTAD DE INGENIERÍA  - UACH  - ")
