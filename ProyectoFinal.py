@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
   
 # Título y descripción
-st.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
+st.sidebar.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
 
 # Obtener clave API desde secretos
 openai_api_key = st.secrets["api_key"]
