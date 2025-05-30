@@ -3,9 +3,10 @@ from openai import OpenAI
   
 # Título y descripción
 st.sidebar.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
-st.sidebar.image("https://uach.mx/assets/media/publications/2017/11/169_imagen-uach/edificio-rectoria-900.jpg")
-st.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
+st.sidebar.image("http://legalidad.uach.mx/noticias/fi.png")
 # st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
+# st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
+
 
  
 # Obtener clave API desde secretos
