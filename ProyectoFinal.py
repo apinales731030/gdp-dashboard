@@ -6,7 +6,7 @@ st.sidebar.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de I
 st.sidebar.image("http://legalidad.uach.mx/noticias/fi.png")
 # st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
 # st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
-
+ 
 
  
 # Obtener clave API desde secretos
