@@ -3,7 +3,7 @@ from openai import OpenAI
   
 # Título y descripción
 st.sidebar.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
-
+ 
 # Obtener clave API desde secretos
 openai_api_key = st.secrets["api_key"]
 client = OpenAI(api_key=openai_api_key)
