@@ -3,7 +3,7 @@ from openai import OpenAI
   
 # Título y descripción
 st.sidebar.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
-st.sidebar.image("http://legalidad.uach.mx/noticias/fi.png")
+st.sidebar.image("https://github.com/apinales731030/gdp-dashboard/blob/main/fi.png?raw=true")
 # st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
 # st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
  
