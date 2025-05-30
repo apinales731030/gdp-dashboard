@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
   
 # Título y descripción
-st.sidebar.title("🎓 PROYECTO CURSO  - Facultad de Ingeniería UACH")
+st.sidebar.title("🎓 PROYECTO CURSO: Desarrollo de asistentes virtuales usando Streamlit  - Facultad de Ingeniería UACH")
 #st.sidebar.image("https://github.com/apinales731030/gdp-dashboard/blob/main/fi.png?raw=true")
 st.sidebar.image("fi.png")
 #st.title.("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
