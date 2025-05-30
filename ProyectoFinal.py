@@ -1,6 +1,6 @@
 import streamlit as st
 from openai import OpenAI
- 
+  
 # Título y descripción
 st.title("🎓 Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
 
