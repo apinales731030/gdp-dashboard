@@ -10,6 +10,7 @@ st.sidebar.title("🎓 FACULTAD DE INGENIERÍA  - UACH  - ")
 st.sidebar.image("fi.png")
 #st.title.("🗣️ Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
 st.title("🗣️ Asistente del Reglamento para Estudiantes - Facultad de Ingeniería UACH")
+st.title("🗣️ Este asistente no reemplaza al reglamento oficial, pero te orienta de forma clara.")
  
  
 # Obtener clave API desde secretos
@@ -40,6 +41,9 @@ Este asistente responde preguntas sobre el Reglamento de la Facultad de Ingenier
 10. Puedes revisar exámenes si no estás de acuerdo, mediante solicitud escrita en los 3 días hábiles posteriores a la publicación de la calificación.
 11. Las tres materias básicas son: Álgebra, Física y Cálculo Diferencial e Integral
 12. Para tener derecho a evaluaciones no ordinarias, el alumno deberá aprobar por lo menos el 50% de su carga académica, siempre y cuando curse dos o más materias; en caso contrario, deberá repetir la materia no acreditada.
+13. Causará baja definitiva del Programa Educativo, el alumno que: I. Acumule ocho materias no acreditadas (NAs), antes de haber cursado la totalidad de las materias hasta quinto semestre, en el caso de modalidades no convencionales será al acumular 3 módulos.
+14. Causará baja definitiva del Programa Educativo, el alumno que: II. Acumule diez materias no acreditadas (NAs), antes de haber cursado la totalidad de las materias hasta sexto semestre.
+15. Causará baja definitiva del Programa Educativo, el alumno que: III. Acumule once materias no acreditadas (NAs), antes de haber cursado la totalidad de las materias hasta séptimo semestre.
 
 Este asistente no reemplaza al reglamento oficial, pero te orienta de forma clara.
 """
