@@ -31,6 +31,7 @@ Este asistente responde preguntas sobre el Reglamento de la Facultad de Ingenier
 9. Las categorías de alumnos son: Regular, Irregular y Provisional.
 10. Puedes revisar exámenes si no estás de acuerdo, mediante solicitud escrita en los 3 días hábiles posteriores a la publicación de la calificación.
 11. Las tres materias básicas son: Álgebra, Física y Cálculo Diferencial e Integral
+12. Para tener derecho a evaluaciones no ordinarias, el alumno deberá aprobar por lo menos el 50% de su carga académica, siempre y cuando curse dos o más materias; en caso contrario, deberá repetir la materia no acreditada.
 
 Este asistente no reemplaza al reglamento oficial, pero te orienta de forma clara.
 """
